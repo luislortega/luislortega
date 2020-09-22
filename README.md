@@ -21,6 +21,6 @@ ____
 
 <p align="center">
 
-⭐️ [luislortega](https://github.com/luislortega)
+⭐️ [luislortega.github.io](https://luislortega.github.io/)
 
 </p>
