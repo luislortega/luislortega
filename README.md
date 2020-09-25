@@ -5,8 +5,6 @@
 
 <p align="center"> <samp> Software developer and video games lover
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luislortega&layout=compact)
-
 ____
 
 
