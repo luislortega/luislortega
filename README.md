@@ -13,6 +13,7 @@ ____
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-gerardo-leon-ortega-5054a3171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+![luislortega's github stats](https://github-readme-stats.vercel.app/api?username=luislortega&show_icons=true)
 
 </p>
 
@@ -25,4 +26,3 @@ ____
 
 </p>
 
-![luislortega's github stats](https://github-readme-stats.vercel.app/api?username=luislortega&show_icons=true)
