@@ -24,3 +24,5 @@ ____
 ⭐️ [luislortega.github.io](https://luislortega.github.io/)
 
 </p>
+
+![luislortega's github stats](https://github-readme-stats.vercel.app/api?username=luislortega&show_icons=true)
