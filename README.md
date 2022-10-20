@@ -4,18 +4,6 @@
 
 
 <p align="center"> <samp> Software developer and video games lover
-  
-____
-
-
-
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/luis-gerardo-leon-ortega-5054a3171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</p>
-
 
 ____
 
